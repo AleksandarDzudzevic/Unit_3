@@ -1,3 +1,4 @@
+![](https://github.com/AleksandarDzudzevic/Unit_3/blob/main/quiz037text.png)
 ```.py
 class CompoundInterest:
     def __init__(self, principal, rate,years):
