@@ -130,5 +130,5 @@ Screen:
             md_bg_color:"white"
             text_color:"FFFFFF"
 ```
-![]()
+![](https://github.com/AleksandarDzudzevic/Unit_3/blob/main/gui_task_pic1.png)
 
