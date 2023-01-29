@@ -131,4 +131,4 @@ Screen:
             text_color:"FFFFFF"
 ```
 ![](https://github.com/AleksandarDzudzevic/Unit_3/blob/main/gui_task_pic1.png)
-
+# TASK 2
