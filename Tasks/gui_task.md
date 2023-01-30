@@ -1,3 +1,47 @@
+# Example 1
+### Python code 
+```.py
+from kivymd.app import MDApp
+
+
+class example1(MDApp):
+    def build(self):
+        return
+
+
+test = example1()
+test.run()
+
+```
+### Kivy code
+```.kv
+Screen:
+    size:500,500
+
+    MDLabel:
+        text:"Hello world"
+        halign:"center"
+        font_size:"35pt
+```
+![](https://github.com/AleksandarDzudzevic/Unit_3/blob/main/gui_task_eg1pic.png)
+# Example 2
+### Python code 
+```.py
+```
+### Kivy code
+```.kv
+```
+![]()
+# Example 3
+### Python code 
+```.py
+```
+### Kivy code
+```.kv
+```
+![]()
+
+
 # TASK 1
 
 ### Python code
