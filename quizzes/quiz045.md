@@ -8,6 +8,9 @@ Select sum(amount) from transactions where transaction_type is "withdraw" group 
 --Person 17 should have 2400 but has only 1600--
 --Person 19 should have 2500 but has 1700--
 -- Since all are checking  13 15 17 19 are fine, so it is No.12--
+Select * from customers where customer_id=12;
 ```
 ### Proof
 ![](https://github.com/AleksandarDzudzevic/Unit_3/blob/main/quiz045test.png)
+### Diagram 
+![](https://github.com/AleksandarDzudzevic/Unit_3/blob/main/quiz045diagram.jpg)
