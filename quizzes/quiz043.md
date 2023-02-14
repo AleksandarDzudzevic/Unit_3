@@ -1,4 +1,4 @@
-
+![](https://github.com/AleksandarDzudzevic/Unit_3/blob/main/quiz043text.png)
 ```.sql
 CREATE TABLE Movies(
     id INTEGER PRIMARY KEY,
