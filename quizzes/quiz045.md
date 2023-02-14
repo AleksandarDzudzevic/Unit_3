@@ -1,5 +1,5 @@
 ![](https://github.com/AleksandarDzudzevic/Unit_3/blob/main/quiz045text.png)
-```.sql
+```.SQLITE
 Select sum(amount) from transactions where transaction_type is "deposit" group by account_id;
 Select sum(amount) from transactions where transaction_type is "withdraw" group by account_id;
 --Person No. 12 has 5000 in the bank even though se should have 4600--
