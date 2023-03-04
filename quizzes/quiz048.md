@@ -1,3 +1,5 @@
+![](https://github.com/AleksandarDzudzevic/Unit_3/blob/main/quiz048text.png)
+## Python code
 ```.py
 import sqlite3
 from passlib.context import CryptContext
@@ -54,3 +56,5 @@ for row in result:
     else:
         print(f"{green} Signature matches")
 ```
+## Proof
+![](https://github.com/AleksandarDzudzevic/Unit_3/blob/main/quiz048test.png)
