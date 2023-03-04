@@ -1,3 +1,5 @@
+![](https://github.com/AleksandarDzudzevic/Unit_3/blob/main/quiz50test.png)
+## Python code
 ```.py
 class flight():
     def __init__(self, flight_number, origin, destination, departure_time, duration):
@@ -23,3 +25,4 @@ print(x.get_duration(duration = x.duration))
 print(y.get_duration(duration = y.duration))
 
 ```
+![](https://github.com/AleksandarDzudzevic/Unit_3/blob/main/quiz050test.png)
