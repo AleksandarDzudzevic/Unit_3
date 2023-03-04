@@ -1,3 +1,5 @@
+![](https://github.com/AleksandarDzudzevic/Unit_3/blob/main/quiz049text.png)
+## Pythion code
 ```.py
 import sqlite3
 from passlib.context import CryptContext
@@ -57,3 +59,5 @@ for row in result:
         bitcoin_amount+=amount
 print(f"Total amount of btc is {bitcoin_amount} BTC")
 ```
+## Proof
+![](https://github.com/AleksandarDzudzevic/Unit_3/blob/main/quiz049test.png)
