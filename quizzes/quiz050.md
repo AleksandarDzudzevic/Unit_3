@@ -1,4 +1,4 @@
-![](https://github.com/AleksandarDzudzevic/Unit_3/blob/main/quiz50test.png)
+![](https://github.com/AleksandarDzudzevic/Unit_3/blob/main/quiz50text.png)
 ## Python code
 ```.py
 class flight():
