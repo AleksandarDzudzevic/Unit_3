@@ -1,4 +1,4 @@
-![](https://github.com/AleksandarDzudzevic/Unit_3/blob/main/quiz049text.png)
+![](https://github.com/AleksandarDzudzevic/Unit_3/blob/main/quiz49text.png)
 ## Pythion code
 ```.py
 import sqlite3
