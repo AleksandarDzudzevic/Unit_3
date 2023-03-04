@@ -1,3 +1,5 @@
+![](https://github.com/AleksandarDzudzevic/Unit_3/blob/main/quiz051text.png)
+## Python code
 ```.py
 class Bicycle:
     def __init__(self, wheel_size, frame_material):
@@ -27,3 +29,4 @@ print(bicycle1.ride())
 wheel1 = wheel(wheel_size = 26)
 print(wheel1.get_km_per_rotation())
 ```
+![](https://github.com/AleksandarDzudzevic/Unit_3/blob/main/quiz051test.png)
